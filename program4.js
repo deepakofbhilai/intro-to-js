@@ -1,0 +1,10 @@
+const a = "Name - Deepak";
+const b = "School - Delhi Public School";
+const c = "grade - 5th";
+const d = "Roll no - 10";
+const e = "Subjects & Marks";
+const f = "English - 60/100";
+const g = "Hindi - 55/100";
+const h = "Maths - 70/100";
+const i = "Report Card";
+console.log(i+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"\n"+h);
